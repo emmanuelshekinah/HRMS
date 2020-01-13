@@ -481,7 +481,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <span class="footer-legal">Human Resource Management System © {{date('Y')}} All rights reserved. By <a
-                                href="mailto:support@easycloudhosting.co.za?Subject=HRM%20Software" target="_blank">Easy Cloud Hosting</a></span>
+                                href="mailto:support@sayt.co.za?Subject=HRM%20Software" target="_blank">SAYT</a></span>
                 </div>
                 <div class="col-md-6 text-right">
                     <span class="footer-meta"></span>
